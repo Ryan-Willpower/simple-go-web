@@ -9,6 +9,6 @@ After downloaded. Let's start with:
 
 `go build`
 
-`simple-go.web.exe`
+`simple-go-web.exe`
 
 **Enjoy**
